@@ -4,7 +4,7 @@
   "description": "Monaca cloud and localkit API bindings for JavaScript",
   "main": "./src/main.js",
   "scripts": {
-    "test": "jasmine-node --color spec/"
+    "test": "jasmine-node  spec/"
   },
   "repository": {
     "type": "git",
@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/monaca/monaca-lib",
   "devDependencies": {
-    "jasmine-node": "^1.14.5"
+    "jasmine-node": "^2.0.1"
   },
   "dependencies": {
     "adbkit": "^2.2.1",

@@ -2,6 +2,7 @@ general:
   branches:
     only:
       - master
+      - stage
 machine:
   node:
     version: 0.12.7
